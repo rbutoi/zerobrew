@@ -2564,6 +2564,7 @@ dependencies = [
  "tar",
  "tempfile",
  "tokio",
+ "walkdir",
  "wiremock",
  "zb_core",
  "zb_io",
